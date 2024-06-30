@@ -1,0 +1,5 @@
+vhdl work "prikaz.vhd"
+vhdl work "djeljitelj_frek.vhd"
+vhdl work "counter_pokaznik.vhd"
+vhdl work "counter.vhd"
+vhdl work "main.vhd"
